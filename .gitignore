@@ -1,0 +1,17 @@
+# Binaries for various operating systems
+*.exe
+*.bin
+
+# Go build cache and module cache
+/bin/
+/pkg/
+
+# Temporary files
+*.tmp
+
+# Editor specific files
+.vscode/
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
